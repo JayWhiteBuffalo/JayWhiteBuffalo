@@ -21,7 +21,7 @@
 [Development Portfolio](https://jaywhitebuffalo.github.io/portfoliov2/)
 
 - 🔭 I’m currently working on A E-commerence template and Admin Panel using Next.js
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Java
 - 💬 Ask me about anything.
 - ⚡ Fun facts: I also give Tarot readings.
 
