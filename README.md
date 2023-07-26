@@ -25,6 +25,8 @@
 - 💬 Ask me about anything.
 - ⚡ Fun facts: I also give Tarot readings.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaywhitebuffalo&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
 [Linked In Profile](https://www.linkedin.com/in/tyler-mason-03b716247/)
 
 
