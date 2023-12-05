@@ -20,10 +20,10 @@
 
 [Development Portfolio](https://jaywhitebuffalo.github.io/portfoliov2/)
 
-- 🔭 I’m currently working on A E-commerence template and Admin Panel using Next.js
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on A Website for a Local Business
+- 🌱 I’m currently learning LAMP Stack
 - 💬 Ask me about anything.
-- ⚡ Fun facts: I also give Tarot readings.
+- ⚡ Fun facts: A tomato is actually a fruit.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaywhitebuffalo&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
