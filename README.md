@@ -35,7 +35,6 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[Development Portfolio](https://jaywhitebuffalo.github.io/portfoliov2/)
 
 - 🔭 I’m currently working on A Website for a Local Business
 - 🌱 I’m currently learning LAMP Stack
