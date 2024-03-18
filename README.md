@@ -1,6 +1,7 @@
 ### Welcome to my page. 
 
 #### Full-Stack Developer graduated from Washington University's Technology and Leadership.
+### Currently working towards a BS in Computer Science.
 
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -36,10 +37,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-- 🔭 I’m currently working on A Website for a Local Business
-- 🌱 I’m currently learning LAMP Stack
+- 🔭 I’m currently working with a IHealth and Wellness Foundation
+- 🌱 I’m currently learning crewAI
 - 💬 Ask me about anything.
-- ⚡ Fun facts: A tomato is actually a fruit.
+- ⚡ Fun facts: x.ai's Grok recently released the source code! Link is here : https://github.com/xai-org/grok-1
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaywhitebuffalo&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
