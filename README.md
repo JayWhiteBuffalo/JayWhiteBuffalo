@@ -37,8 +37,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-- 🔭 I’m currently working with a IHealth and Wellness Foundation
-- 🌱 I’m currently learning crewAI
+- 🔭 I’m currently working with LaunchCode Foundation
+- 🌱 I’m currently learning Python
 - 💬 Ask me about anything.
 
 
