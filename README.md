@@ -40,7 +40,7 @@
 - 🔭 I’m currently working with a IHealth and Wellness Foundation
 - 🌱 I’m currently learning crewAI
 - 💬 Ask me about anything.
-- ⚡ Fun facts: x.ai's Grok recently released the source code! Link is here : https://github.com/xai-org/grok-1
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaywhitebuffalo&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
